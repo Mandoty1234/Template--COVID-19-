@@ -1,1 +1,1 @@
-# Template--COVID-19-
+# Template-COVID-19
